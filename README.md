@@ -1,5 +1,9 @@
 The provided Python code uses the OpenCV library and the Haar Cascade classifier to detect faces in an image. It then draws rectangles around the detected faces and displays the result using matplotlib.
 
+<p align="center">
+  <img src = "img/face.png" height = "350">
+</p>
+
 Here's a breakdown of what the code does:
 
 1. Import the required libraries:
